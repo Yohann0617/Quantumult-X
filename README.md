@@ -2,18 +2,6 @@
 
 自用配置 不定时更新
 
-更新请关注 tg 频道：https://t.me/plus8889
-
-软件需求QQ群：779392027
-
-            觉得有帮助可以请喝咖啡
-            
-
-
-<img src="https://pic.imgdb.cn/item/6564daaac458853aefbb3ca9.jpg"  style="width: 100%!;(MISSING) height: auto;">
-
-
-
 ## 特别声明:
 
 - 本仓库发布的项目中涉及的任何解锁和解密分析脚本，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
@@ -36,4 +24,4 @@
 
 ### 访问量
 
-![](http://profile-counter.glitch.me/evilbutcher/count.svg)
+[![Stargazers over time](https://starchart.cc/Yohann0617/Quantumult-X.svg)](https://starchart.cc/Yohann0617/Quantumult-X)
